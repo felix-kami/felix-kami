@@ -2,7 +2,7 @@
 
 ### <h2> Hi I am Felix 👋  </h2>
 
-<img align='right' src="https://i.pinimg.com/564x/8c/72/44/8c7244fbc7569df63a2efae3a5de6aca.jpg" width="338">
+<img align='right' src="https://avatars.githubusercontent.com/u/173648553?v=4" width="338">
 
 ```js
 
