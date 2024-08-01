@@ -16,7 +16,7 @@ export const felix ={
   technologies: {
     frontEnd: {
       js: ["react"],
-      css: ["Antd", "tailwind"]
+      css: ["Antd", "Tailwind"]
     },
     backEnd: {
       js: ["NodeJS", "Express", "NestJS"],
